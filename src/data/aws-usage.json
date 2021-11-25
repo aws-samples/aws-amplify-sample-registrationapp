@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Do not use AWS today"
+  },
+  {
+    "name": "Evaluating/experimenting with AWS"
+  },
+  {
+    "name": "Run dev/test workloads on AWS"
+  },
+  {
+    "name": "Run a single production workload on AWS"
+  },
+  {
+    "name": "Run multiple production workloads on AWS"
+  }
+]
