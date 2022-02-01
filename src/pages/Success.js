@@ -20,7 +20,7 @@ function Success() {
            </div>
         </RegistrationFormCard>
      </>
-    )
+    );
 }
 
-export default Success
+export default Success;
