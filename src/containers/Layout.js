@@ -27,6 +27,7 @@ function Layout() {
                                 ) : null;
                             })}
                             <Redirect exact from="/app" to="/app/registration"/>
+                            <Redirect exact from="/success" to="/app/success"/>
                             <Route component={Page404}/>
                         </Switch>
                     </Suspense>
